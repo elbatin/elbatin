@@ -21,10 +21,6 @@
     <img src="https://img.shields.io/badge/YouTube-elbatindev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/elbatin">
-    <img src="https://img.shields.io/badge/Instagram-elbatin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=elbatin&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS"/>
 </div>
 
@@ -59,6 +55,17 @@ Automation & n8n      ████████████░░░░░░░�
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🎨 Frontend & Design
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 </p>
 
 ### 🛠️ Frameworks & Tools
@@ -94,29 +101,8 @@ Automation & n8n      ████████████░░░░░░░�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elbatin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=elbatin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
-
----
-
-## 📺 Latest YouTube Videos
-
-<!-- Buraya manuel olarak son 3 videonun linkini ekle, her video yayınlanınca güncelle -->
-
-| Video | Date |
-|-------|------|
-| 🔴 [Claude Code vs Codex CLI vs Gemini CLI — Hangisi Gerçekten En İyisi?](https://youtube.com/@elbatindev) | Mar 2026 |
-
-> 📌 New video every week — **[Subscribe here](https://youtube.com/@elbatindev)**
-
----
-
-## 💬 Currently
-
-- 🔭 Building AI-powered projects and testing every new tool
-- 🧪 Running: **Claude Code vs Codex CLI vs Gemini CLI** benchmarks
-- 📹 Creating Turkish-language AI & dev content on YouTube
-- 🤖 Exploring: n8n automations, vibe coding, AI agents
 
 ---
 
