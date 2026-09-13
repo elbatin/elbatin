@@ -63,8 +63,6 @@ Currently running two products:
         <img src="https://github-readme-stats.vercel.app/api?username=elbatin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff6b35&text_color=8b949e&hide=stars&count_private=true" alt="GitHub Stats" height="165" />
      
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbatin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&count_private=true" alt="Top Languages" height="165" />
-        [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbatin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)](https://github.com/elbatin)
-
         ---
 
         Turkey · Building since 2020 · [elbatin.com](https://elbatin.com)
