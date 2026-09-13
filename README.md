@@ -50,6 +50,8 @@ Currently running two products:
         | [Restom](https://restom.com.tr) | Multi-tenant restaurant POS & management SaaS · live in production | Next.js · Convex · Supabase |
         | [Skupost](https://skupost.com) | AI social content generator for e-commerce · SaaS | Next.js · Supabase · OpenAI |
         | [elbatin.com](https://elbatin.com) | Personal portfolio | Next.js · TypeScript · Tailwind |
+        | [Sinirbilim Topluluğu](https://sinirbilim.com.tr) | Nörobilim & nöropsikoloji eğitim platformu · kurs & quiz sistemi | Next.js · Supabase |
+        | [Modernist](https://modernist.com.tr) | 55+ ülkede faaliyet gösteren kreatif ajansın kurumsal platformu | Next.js · TypeScript · Tailwind |
         | Berhan Baran CRM | Real estate CRM with GPS tracking, WhatsApp & OTP integration | Next.js · Supabase |
         | The Holl Istanbul | Cafe ordering system | PHP · MySQL |
         | JustzRoyale | Virtual social casino — coin economy, 5+ game modes, real-time leaderboard | React · Convex · Vite |
@@ -58,7 +60,9 @@ Currently running two products:
 
         ## Stats
 
-        [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elbatin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff6b35&text_color=8b949e&hide=stars)](https://github.com/elbatin)
+        <img src="https://github-readme-stats.vercel.app/api?username=elbatin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff6b35&text_color=8b949e&hide=stars&count_private=true" alt="GitHub Stats" height="165" />
+     
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbatin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&count_private=true" alt="Top Languages" height="165" />
         [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbatin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)](https://github.com/elbatin)
 
         ---
